@@ -1,2 +1,3 @@
 # markdeaton.github.io
-Public GitHub pages
+This is my public GitHub page.
+It's just a placeholder, obviously.
